@@ -1,0 +1,63 @@
+
+header{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #0CCCFF;
+}
+
+.image {
+    width: 100%;
+}
+
+.main {
+    height: 1000px;
+    background: #E2E3FF;
+}
+
+.parag {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+}
+
+.buton {
+    background: #0CCCFF;
+    text-transform: uppercase;
+    color: white;
+    width: 130px;
+    height: 40px;
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px 10px 10px 25px;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.footer {
+    height: 15px;
+    margin: 30px;
+    text-align: right;
+    box-sizing: border-box;
+
+}
+
